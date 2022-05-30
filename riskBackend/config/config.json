@@ -1,0 +1,8 @@
+{
+    "host": "risk-rds.ccvw1b0iz1uc.us-east-2.rds.amazonaws.com",
+    "user": "root",
+    "port":"3306",
+    "password": "UERDsgQt%kD29H]",
+    "database": "risk"
+}
+
